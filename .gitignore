@@ -1,0 +1,15 @@
+# HSPICE generated files
+*.lis
+*.st0
+*.tr0
+*.sw0
+*.ac0
+*.pa0
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
